@@ -1,0 +1,6 @@
+speech_recognition
+easyimap
+pyttsx3
+smtplib
+streamlit
+pyaudio
