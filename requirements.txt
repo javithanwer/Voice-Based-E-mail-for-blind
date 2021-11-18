@@ -3,7 +3,6 @@ easyimap==0.7.0
 easyimap==0.7.0
 PyAudio==0.2.11
 pyttsx3==2.90
-pywin32==301
 SpeechRecognition==3.8.1
 streamlit==1.0.0
 pip==21.3.1
