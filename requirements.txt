@@ -1,6 +1,8 @@
-speech_recognition
-easyimap
-pyttsx3
-smtplib
-streamlit
-pyaudio
+beautifulsoup4==4.9.3
+easyimap==0.7.0
+easyimap==0.7.0
+PyAudio @ file:///C:/Program%20Files/Python39/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pyttsx3==2.90
+pywin32==301
+SpeechRecognition==3.8.1
+streamlit==1.0.0
